@@ -13,7 +13,7 @@ File serial_number_IP.py is the only file that needs to run for the code to work
 Usage:  
 The code will prompt for an IP address.  Only configured IP addresses in DNAC will invoke the code to provide a csv file.  Appropriate warnings will appear if a non-configured IP address is entered as well as if no IP address in entered.
 
-No verify csv creation, delete any existing SNReport.csv file from the folder.  Upon running the serial_number_ip.py script, a new SNReport.csv will be created.
+No verify csv file creation, delete any existing SNReport.csv file from the folder.  Upon running the serial_number_ip.py script, a new SNReport.csv will be created.
 
 No password our authentication is required.
 
